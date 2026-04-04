@@ -3,3 +3,4 @@ dist
 .DS_Store
 .esbuild-*
 *.tsbuildinfo
+vite.config.ts.timestamp-*
