@@ -20,6 +20,11 @@ npm run build
 npm run preview
 ```
 
+## Publicacao web
+
+- Repositorio: `https://github.com/abraaorosal/AISPMCE_2026.1`
+- URL esperada no GitHub Pages: `https://abraaorosal.github.io/AISPMCE_2026.1/`
+
 ## Estrutura principal
 
 - `public/data/`: arquivos reais usados em runtime via `fetch`
