@@ -1,6 +1,8 @@
+import { resolveAppPath } from '@/utils/paths';
+
 export const SUBMUNICIPAL_LAYER_PATHS = {
-  fortalezaNeighborhoods: '/data/fortaleza-bairros.geojson',
-  caucaiaTerritorialUnits: '/data/caucaia-unidades-territoriais.geojson',
+  fortalezaNeighborhoods: resolveAppPath('data/fortaleza-bairros.geojson'),
+  caucaiaTerritorialUnits: resolveAppPath('data/caucaia-unidades-territoriais.geojson'),
 } as const;
 
 export const TERRITORIAL_NAME_ALIASES = Object.freeze({

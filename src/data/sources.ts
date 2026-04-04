@@ -1,4 +1,5 @@
 import { SUBMUNICIPAL_LAYER_PATHS } from '@/config/territorial';
+import { resolveAppPath } from '@/utils/paths';
 import type {
   AISSourceFile,
   MunicipalityGeoCollection,
@@ -8,10 +9,10 @@ import type {
 } from '@/types';
 
 export const DATA_SOURCE_PATHS = {
-  ais: '/data/ais-ceara.json',
-  municipalities: '/data/ceara-municipios.geojson',
-  pmUnits: '/data/sedes-pm.json',
-  raioBases: '/data/municipios-base-raio-coordenadas.json',
+  ais: resolveAppPath('data/ais-ceara.json'),
+  municipalities: resolveAppPath('data/ceara-municipios.geojson'),
+  pmUnits: resolveAppPath('data/sedes-pm.json'),
+  raioBases: resolveAppPath('data/municipios-base-raio-coordenadas.json'),
 } as const;
 
 async function fetchJson<T>(path: string): Promise<T> {
