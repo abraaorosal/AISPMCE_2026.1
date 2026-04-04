@@ -1,0 +1,682 @@
+[
+  {
+    "municipio": "ACARAÚ",
+    "efetivo": 24,
+    "latitude": -2.968592,
+    "longitude": -40.086777,
+    "codarea": "2300200",
+    "id": "2300200"
+  },
+  {
+    "municipio": "ACOPIARA",
+    "efetivo": 29,
+    "latitude": -6.122709,
+    "longitude": -39.495239,
+    "codarea": "2300309",
+    "id": "2300309"
+  },
+  {
+    "municipio": "AMONTADA",
+    "efetivo": 29,
+    "latitude": -3.238749,
+    "longitude": -39.784957,
+    "codarea": "2300754",
+    "id": "2300754"
+  },
+  {
+    "municipio": "AQUIRAZ",
+    "efetivo": 52,
+    "latitude": -3.97591,
+    "longitude": -38.394135,
+    "codarea": "2301000",
+    "id": "2301000"
+  },
+  {
+    "municipio": "ARACATI",
+    "efetivo": 33,
+    "latitude": -4.680131,
+    "longitude": -37.686437,
+    "codarea": "2301109",
+    "id": "2301109"
+  },
+  {
+    "municipio": "ARACOIABA",
+    "efetivo": 23,
+    "latitude": -4.483233,
+    "longitude": -38.715061,
+    "codarea": "2301208",
+    "id": "2301208"
+  },
+  {
+    "municipio": "AURORA",
+    "efetivo": 22,
+    "latitude": -6.988297,
+    "longitude": -38.967569,
+    "codarea": "2301703",
+    "id": "2301703"
+  },
+  {
+    "municipio": "BARBALHA",
+    "efetivo": 35,
+    "latitude": -7.40702,
+    "longitude": -39.346518,
+    "codarea": "2301901",
+    "id": "2301901"
+  },
+  {
+    "municipio": "BATURITÉ",
+    "efetivo": 31,
+    "latitude": -4.387054,
+    "longitude": -38.851242,
+    "codarea": "2302107",
+    "id": "2302107"
+  },
+  {
+    "municipio": "BEBERIBE",
+    "efetivo": 30,
+    "latitude": -4.402646,
+    "longitude": -38.113526,
+    "codarea": "2302206",
+    "id": "2302206"
+  },
+  {
+    "municipio": "BELA CRUZ",
+    "efetivo": 18,
+    "latitude": -3.053528,
+    "longitude": -40.307996,
+    "codarea": "2302305",
+    "id": "2302305"
+  },
+  {
+    "municipio": "BOA VIAGEM",
+    "efetivo": 28,
+    "latitude": -5.086455,
+    "longitude": -39.808467,
+    "codarea": "2302404",
+    "id": "2302404"
+  },
+  {
+    "municipio": "BREJO SANTO",
+    "efetivo": 30,
+    "latitude": -7.553991,
+    "longitude": -38.921223,
+    "codarea": "2302503",
+    "id": "2302503"
+  },
+  {
+    "municipio": "CAMOCIM",
+    "efetivo": 33,
+    "latitude": -2.949508,
+    "longitude": -40.799241,
+    "codarea": "2302602",
+    "id": "2302602"
+  },
+  {
+    "municipio": "CAMPOS SALES",
+    "efetivo": 22,
+    "latitude": -6.935787,
+    "longitude": -40.272021,
+    "codarea": "2302701",
+    "id": "2302701"
+  },
+  {
+    "municipio": "CANINDÉ",
+    "efetivo": 49,
+    "latitude": -4.402828,
+    "longitude": -39.430288,
+    "codarea": "2302800",
+    "id": "2302800"
+  },
+  {
+    "municipio": "CARIRIAÇU",
+    "efetivo": 23,
+    "latitude": -7.020902,
+    "longitude": -39.274677,
+    "codarea": "2303204",
+    "id": "2303204"
+  },
+  {
+    "municipio": "CASCAVEL",
+    "efetivo": 36,
+    "latitude": -4.238542,
+    "longitude": -38.297183,
+    "codarea": "2303501",
+    "id": "2303501"
+  },
+  {
+    "municipio": "CAUCAIA",
+    "efetivo": 144,
+    "latitude": -3.782542,
+    "longitude": -38.810828,
+    "codarea": "2303709",
+    "id": "2303709"
+  },
+  {
+    "municipio": "CEDRO",
+    "efetivo": 23,
+    "latitude": -6.569473,
+    "longitude": -39.094321,
+    "codarea": "2303808",
+    "id": "2303808"
+  },
+  {
+    "municipio": "CHOROZINHO",
+    "efetivo": 23,
+    "latitude": -4.306063,
+    "longitude": -38.470429,
+    "codarea": "2303956",
+    "id": "2303956"
+  },
+  {
+    "municipio": "CRATEÚS",
+    "efetivo": 31,
+    "latitude": -5.199802,
+    "longitude": -40.718272,
+    "codarea": "2304103",
+    "id": "2304103"
+  },
+  {
+    "municipio": "CRATO",
+    "efetivo": 38,
+    "latitude": -7.232311,
+    "longitude": -39.489605,
+    "codarea": "2304202",
+    "id": "2304202"
+  },
+  {
+    "municipio": "EUSÉBIO",
+    "efetivo": 40,
+    "latitude": -3.877224,
+    "longitude": -38.458913,
+    "codarea": "2304285",
+    "id": "2304285"
+  },
+  {
+    "municipio": "FORQUILHA",
+    "efetivo": 22,
+    "latitude": -3.822976,
+    "longitude": -40.225185,
+    "codarea": "2304350",
+    "id": "2304350"
+  },
+  {
+    "municipio": "FORTALEZA",
+    "efetivo": 285,
+    "latitude": -3.785584,
+    "longitude": -38.527657,
+    "codarea": "2304400",
+    "id": "2304400"
+  },
+  {
+    "municipio": "GRANJA",
+    "efetivo": 26,
+    "latitude": -3.231094,
+    "longitude": -41.002135,
+    "codarea": "2304707",
+    "id": "2304707"
+  },
+  {
+    "municipio": "GUAIÚBA",
+    "efetivo": 25,
+    "latitude": -4.102861,
+    "longitude": -38.667076,
+    "codarea": "2304954",
+    "id": "2304954"
+  },
+  {
+    "municipio": "GUARACIABA DO NORTE",
+    "efetivo": 24,
+    "latitude": -4.233356,
+    "longitude": -40.915841,
+    "codarea": "2305001",
+    "id": "2305001"
+  },
+  {
+    "municipio": "HORIZONTE",
+    "efetivo": 40,
+    "latitude": -4.101961,
+    "longitude": -38.465698,
+    "codarea": "2305233",
+    "id": "2305233"
+  },
+  {
+    "municipio": "IBIAPINA",
+    "efetivo": 22,
+    "latitude": -3.949779,
+    "longitude": -41.000197,
+    "codarea": "2305308",
+    "id": "2305308"
+  },
+  {
+    "municipio": "ICAPUÍ",
+    "efetivo": 23,
+    "latitude": -4.73906,
+    "longitude": -37.412398,
+    "codarea": "2305357",
+    "id": "2305357"
+  },
+  {
+    "municipio": "ICÓ",
+    "efetivo": 31,
+    "latitude": -6.38802,
+    "longitude": -38.782039,
+    "codarea": "2305407",
+    "id": "2305407"
+  },
+  {
+    "municipio": "IGUATU",
+    "efetivo": 44,
+    "latitude": -6.358773,
+    "longitude": -39.282978,
+    "codarea": "2305506",
+    "id": "2305506"
+  },
+  {
+    "municipio": "IPU",
+    "efetivo": 23,
+    "latitude": -4.36832,
+    "longitude": -40.670809,
+    "codarea": "2305803",
+    "id": "2305803"
+  },
+  {
+    "municipio": "IPUEIRAS",
+    "efetivo": 19,
+    "latitude": -4.573619,
+    "longitude": -40.877824,
+    "codarea": "2305902",
+    "id": "2305902"
+  },
+  {
+    "municipio": "ITAITINGA",
+    "efetivo": 32,
+    "latitude": -3.999106,
+    "longitude": -38.549805,
+    "codarea": "2306256",
+    "id": "2306256"
+  },
+  {
+    "municipio": "ITAPAJÉ",
+    "efetivo": 27,
+    "latitude": -3.733638,
+    "longitude": -39.575104,
+    "codarea": "2306306",
+    "id": "2306306"
+  },
+  {
+    "municipio": "ITAPIPOCA",
+    "efetivo": 43,
+    "latitude": -3.394599,
+    "longitude": -39.597584,
+    "codarea": "2306405",
+    "id": "2306405"
+  },
+  {
+    "municipio": "ITAREMA",
+    "efetivo": 24,
+    "latitude": -3.049938,
+    "longitude": -39.889879,
+    "codarea": "2306553",
+    "id": "2306553"
+  },
+  {
+    "municipio": "JAGUARIBE",
+    "efetivo": 24,
+    "latitude": -5.961256,
+    "longitude": -38.707631,
+    "codarea": "2306900",
+    "id": "2306900"
+  },
+  {
+    "municipio": "JAGUARUANA",
+    "efetivo": 25,
+    "latitude": -4.866613,
+    "longitude": -37.746119,
+    "codarea": "2307007",
+    "id": "2307007"
+  },
+  {
+    "municipio": "JARDIM",
+    "efetivo": 21,
+    "latitude": -7.590268,
+    "longitude": -39.248243,
+    "codarea": "2307106",
+    "id": "2307106"
+  },
+  {
+    "municipio": "JUAZEIRO DO NORTE",
+    "efetivo": 77,
+    "latitude": -7.18504,
+    "longitude": -39.286354,
+    "codarea": "2307304",
+    "id": "2307304"
+  },
+  {
+    "municipio": "LAVRAS DA MANGABEIRA",
+    "efetivo": 22,
+    "latitude": -6.777534,
+    "longitude": -38.994682,
+    "codarea": "2307502",
+    "id": "2307502"
+  },
+  {
+    "municipio": "LIMOEIRO DO NORTE",
+    "efetivo": 38,
+    "latitude": -5.15762,
+    "longitude": -38.047703,
+    "codarea": "2307601",
+    "id": "2307601"
+  },
+  {
+    "municipio": "MARACANAÚ",
+    "efetivo": 93,
+    "latitude": -3.873823,
+    "longitude": -38.627261,
+    "codarea": "2307650",
+    "id": "2307650"
+  },
+  {
+    "municipio": "MARANGUAPE",
+    "efetivo": 48,
+    "latitude": -4.006705,
+    "longitude": -38.810077,
+    "codarea": "2307700",
+    "id": "2307700"
+  },
+  {
+    "municipio": "MARCO",
+    "efetivo": 21,
+    "latitude": -3.19078,
+    "longitude": -40.263898,
+    "codarea": "2307809",
+    "id": "2307809"
+  },
+  {
+    "municipio": "MASSAPÊ",
+    "efetivo": 25,
+    "latitude": -3.483018,
+    "longitude": -40.390049,
+    "codarea": "2308005",
+    "id": "2308005"
+  },
+  {
+    "municipio": "MAURITI",
+    "efetivo": 27,
+    "latitude": -7.397168,
+    "longitude": -38.718219,
+    "codarea": "2308104",
+    "id": "2308104"
+  },
+  {
+    "municipio": "MISSÃO VELHA",
+    "efetivo": 25,
+    "latitude": -7.307179,
+    "longitude": -39.153083,
+    "codarea": "2308401",
+    "id": "2308401"
+  },
+  {
+    "municipio": "MOMBAÇA",
+    "efetivo": 26,
+    "latitude": -5.787354,
+    "longitude": -39.74869,
+    "codarea": "2308500",
+    "id": "2308500"
+  },
+  {
+    "municipio": "MORADA NOVA",
+    "efetivo": 33,
+    "latitude": -5.033595,
+    "longitude": -38.432047,
+    "codarea": "2308708",
+    "id": "2308708"
+  },
+  {
+    "municipio": "NOVA RUSSAS",
+    "efetivo": 19,
+    "latitude": -4.67872,
+    "longitude": -40.529163,
+    "codarea": "2309300",
+    "id": "2309300"
+  },
+  {
+    "municipio": "NOVO ORIENTE",
+    "efetivo": 21,
+    "latitude": -5.592387,
+    "longitude": -40.772105,
+    "codarea": "2309409",
+    "id": "2309409"
+  },
+  {
+    "municipio": "OCARA",
+    "efetivo": 22,
+    "latitude": -4.526126,
+    "longitude": -38.508077,
+    "codarea": "2309458",
+    "id": "2309458"
+  },
+  {
+    "municipio": "PACAJUS",
+    "efetivo": 33,
+    "latitude": -4.18376,
+    "longitude": -38.496539,
+    "codarea": "2309607",
+    "id": "2309607"
+  },
+  {
+    "municipio": "PACATUBA",
+    "efetivo": 32,
+    "latitude": -3.953535,
+    "longitude": -38.596219,
+    "codarea": "2309706",
+    "id": "2309706"
+  },
+  {
+    "municipio": "PARACURU",
+    "efetivo": 29,
+    "latitude": -3.479437,
+    "longitude": -39.038934,
+    "codarea": "2310209",
+    "id": "2310209"
+  },
+  {
+    "municipio": "PARAIPABA",
+    "efetivo": 26,
+    "latitude": -3.422466,
+    "longitude": -39.176259,
+    "codarea": "2310258",
+    "id": "2310258"
+  },
+  {
+    "municipio": "PARAMBU",
+    "efetivo": 10,
+    "latitude": -6.302422,
+    "longitude": -40.628852,
+    "codarea": "2310308",
+    "id": "2310308"
+  },
+  {
+    "municipio": "PEDRA BRANCA",
+    "efetivo": 22,
+    "latitude": -5.496572,
+    "longitude": -39.847069,
+    "codarea": "2310506",
+    "id": "2310506"
+  },
+  {
+    "municipio": "PENTECOSTE",
+    "efetivo": 23,
+    "latitude": -3.854579,
+    "longitude": -39.146003,
+    "codarea": "2310704",
+    "id": "2310704"
+  },
+  {
+    "municipio": "QUIXADÁ",
+    "efetivo": 42,
+    "latitude": -4.955591,
+    "longitude": -38.945632,
+    "codarea": "2311306",
+    "id": "2311306"
+  },
+  {
+    "municipio": "QUIXERAMOBIM",
+    "efetivo": 33,
+    "latitude": -5.244939,
+    "longitude": -39.333521,
+    "codarea": "2311405",
+    "id": "2311405"
+  },
+  {
+    "municipio": "RUSSAS",
+    "efetivo": 58,
+    "latitude": -4.843355,
+    "longitude": -38.147272,
+    "codarea": "2311801",
+    "id": "2311801"
+  },
+  {
+    "municipio": "SANTA QUITÉRIA",
+    "efetivo": 24,
+    "latitude": -4.340034,
+    "longitude": -40.042909,
+    "codarea": "2312205",
+    "id": "2312205"
+  },
+  {
+    "municipio": "SANTANA DO ACARAÚ",
+    "efetivo": 17,
+    "latitude": -3.462494,
+    "longitude": -40.166035,
+    "codarea": "2312007",
+    "id": "2312007"
+  },
+  {
+    "municipio": "SÃO BENEDITO",
+    "efetivo": 27,
+    "latitude": -4.041013,
+    "longitude": -40.968913,
+    "codarea": "2312304",
+    "id": "2312304"
+  },
+  {
+    "municipio": "SÃO GONÇALO DO AMARANTE",
+    "efetivo": 32,
+    "latitude": -3.600073,
+    "longitude": -39.059888,
+    "codarea": "2312403",
+    "id": "2312403"
+  },
+  {
+    "municipio": "SOBRAL",
+    "efetivo": 67,
+    "latitude": -3.811679,
+    "longitude": -40.227885,
+    "codarea": "2312908",
+    "id": "2312908"
+  },
+  {
+    "municipio": "TABULEIRO DO NORTE",
+    "efetivo": 26,
+    "latitude": -5.362243,
+    "longitude": -38.026403,
+    "codarea": "2313104",
+    "id": "2313104"
+  },
+  {
+    "municipio": "TAMBORIL",
+    "efetivo": 19,
+    "latitude": -4.919981,
+    "longitude": -40.336068,
+    "codarea": "2313203",
+    "id": "2313203"
+  },
+  {
+    "municipio": "TAUÁ",
+    "efetivo": 28,
+    "latitude": -5.936329,
+    "longitude": -40.259221,
+    "codarea": "2313302",
+    "id": "2313302"
+  },
+  {
+    "municipio": "TIANGUÁ",
+    "efetivo": 28,
+    "latitude": -3.735365,
+    "longitude": -41.053793,
+    "codarea": "2313401",
+    "id": "2313401"
+  },
+  {
+    "municipio": "TRAIRI",
+    "efetivo": 28,
+    "latitude": -3.337697,
+    "longitude": -39.353034,
+    "codarea": "2313500",
+    "id": "2313500"
+  },
+  {
+    "municipio": "UBAJARA",
+    "efetivo": 22,
+    "latitude": -3.867812,
+    "longitude": -41.006126,
+    "codarea": "2313609",
+    "id": "2313609"
+  },
+  {
+    "municipio": "VIÇOSA DO CEARÁ",
+    "efetivo": 25,
+    "latitude": -3.548463,
+    "longitude": -41.134896,
+    "codarea": "2314102",
+    "id": "2314102"
+  },
+  {
+    "municipio": "VÁRZEA ALEGRE",
+    "efetivo": 25,
+    "latitude": -6.772694,
+    "longitude": -39.297821,
+    "codarea": "2314003",
+    "id": "2314003"
+  },
+  {
+    "municipio": "CRUZ",
+    "efetivo": 0,
+    "latitude": -2.895654,
+    "longitude": -40.32558,
+    "codarea": "2304251",
+    "id": "2304251"
+  },
+  {
+    "municipio": "INDEPENDÊNCIA",
+    "efetivo": 0,
+    "latitude": -5.474955,
+    "longitude": -40.342244,
+    "codarea": "2305605",
+    "id": "2305605"
+  },
+  {
+    "municipio": "MILAGRES",
+    "efetivo": 0,
+    "latitude": -7.272455,
+    "longitude": -38.943179,
+    "codarea": "2308302",
+    "id": "2308302"
+  },
+  {
+    "municipio": "REDENÇÃO",
+    "efetivo": 0,
+    "latitude": -4.2461,
+    "longitude": -38.76219,
+    "codarea": "2311603",
+    "id": "2311603"
+  },
+  {
+    "municipio": "SENADOR POMPEU",
+    "efetivo": 0,
+    "latitude": -5.588119,
+    "longitude": -39.433306,
+    "codarea": "2312700",
+    "id": "2312700"
+  }
+]

@@ -1,0 +1,571 @@
+{
+    "area_integrada_de_seguranca": [
+      {
+        "ais": "AIS01",
+        "municipios_ou_bairros": [
+          "Jaguaruana",
+          "Limoeiro do Norte",
+          "Quixeré",
+          "Russas",
+          "São João do Jaguaribe",
+          "Tabuleiro do Norte"
+        ]
+      },
+      {
+        "ais": "AIS02",
+        "municipios_ou_bairros": [
+          "Aurora",
+          "Barbalha",
+          "Caririaçu",
+          "Crato",
+          "Farias Brito",
+          "Jardim",
+          "Juazeiro do Norte",
+          "Missão Velha",
+          "Nova Olinda",
+          "Santana do Cariri"
+        ]
+      },
+      {
+        "ais": "AIS03",
+        "municipios_ou_bairros": [
+          "Alcântaras",
+          "Cariré",
+          "Coreaú",
+          "Forquilha",
+          "Frecheirinha",
+          "Graça",
+          "Groaíras",
+          "Massapê",
+          "Meruoca",
+          "Mucambo",
+          "Pacujá",
+          "Santana do Acaraú",
+          "Senador Sá",
+          "Sobral"
+        ]
+      },
+      {
+        "ais": "AIS04",
+        "municipios_ou_bairros": [
+          "Boa Viagem",
+          "Canindé",
+          "Caridade",
+          "Itatira",
+          "Madalena",
+          "Paramoti"
+        ]
+      },
+      {
+        "ais": "AIS05",
+        "municipios_ou_bairros": [
+          "Álvaro Weyne",
+          "Carlito Pamplona",
+          "Centro (Fortaleza)",
+          "Ellery",
+          "Farias Brito (Fortaleza)",
+          "Jacarecanga",
+          "Monte Castelo",
+          "Moura Brasil",
+          "São Gerardo"
+        ]
+      },
+      {
+        "ais": "AIS06",
+        "municipios_ou_bairros": [
+          "Aeroporto",
+          "Benfica",
+          "Bom Futuro",
+          "Couto Fernandes",
+          "Damas",
+          "Demócrito Rocha",
+          "Rachel de Queiroz",
+          "Fátima",
+          "Itaoca",
+          "Itaperi",
+          "Jardim América",
+          "José Bonifácio",
+          "Montese",
+          "Panamericano",
+          "Parangaba",
+          "Parreão",
+          "Serrinha",
+          "Vila Peri",
+          "Vila União"
+        ]
+      },
+      {
+        "ais": "AIS07",
+        "municipios_ou_bairros": [
+          "Ararendá",
+          "Catunda",
+          "Crateús",
+          "Hidrolândia",
+          "Independência",
+          "Ipaporanga",
+          "Ipu",
+          "Ipueiras",
+          "Monsenhor Tabosa",
+          "Nova Russas",
+          "Novo Oriente",
+          "Pires Ferreira",
+          "Poranga",
+          "Reriutaba",
+          "Santa Quitéria",
+          "Tamboril",
+          "Varjota"
+        ]
+      },
+      {
+        "ais": "AIS08",
+        "municipios_ou_bairros": [
+          "Aldeota",
+          "Cais do Porto",
+          "Meireles",
+          "Mucuripe",
+          "Varjota (Fortaleza)",
+          "Vicente Pinzón"
+        ]
+      },
+      {
+        "ais": "AIS09",
+        "municipios_ou_bairros": [
+          "Banabuiú",
+          "Choró",
+          "Deputado Irapuan Pinheiro",
+          "Ibaretama",
+          "Ibicuitinga",
+          "Jaguaretama",
+          "Milhã",
+          "Morada Nova",
+          "Pedra Branca",
+          "Quixadá",
+          "Quixeramobim",
+          "Senador Pompeu",
+          "Solonópole"
+        ]
+      },
+      {
+        "ais": "AIS10",
+        "municipios_ou_bairros": [
+          "Acopiara",
+          "Cariús",
+          "Iguatu",
+          "Jucás",
+          "Quixelô",
+          "Saboeiro",
+          "Tarrafas"
+        ]
+      },
+      {
+        "ais": "AIS11",
+        "municipios_ou_bairros": [
+          "Acaraú",
+          "Amontada",
+          "Apuiarés",
+          "Bela Cruz",
+          "Cruz",
+          "General Sampaio",
+          "Irauçuba",
+          "Itapajé",
+          "Itapipoca",
+          "Itarema",
+          "Jijoca de Jericoacoara",
+          "Marco",
+          "Miraíma",
+          "Morrinhos",
+          "Pentecoste",
+          "Tejuçuoca",
+          "Tururu",
+          "Umirim",
+          "Uruburetama"
+        ]
+      },
+      {
+        "ais": "AIS12",
+        "municipios_ou_bairros": [
+          "Alto do Garrote",
+          "Bom Jesus",
+          "Cabatan",
+          "Açude",
+          "Barra Nova",
+          "Camurupim",
+          "Cumbuco",
+          "Curicaca",
+          "Anil",
+          "Capuan",
+          "Centro",
+          "Cigana",
+          "Cipó",
+          "Jardim Icaraí",
+          "Garrote",
+          "Grilo",
+          "Itapoã",
+          "Icaraí",
+          "Itambé",
+          "Mestre Antônio",
+          "Lagoa do Banana",
+          "Iparana",
+          "Jandaiguaba",
+          "Nova Cigana",
+          "Novo Pabussu",
+          "Pabussu",
+          "Pacheco",
+          "Padre Júlio Maria",
+          "Padre Romualdo",
+          "Parque Leblon",
+          "Paumirim",
+          "Planalto Caucaia",
+          "Parque Soledade",
+          "Pitombeira",
+          "Mixira",
+          "Cauípe",
+          "Tabuba",
+          "Guagiru",
+          "Caraúbas",
+          "Coité (Caucaia)",
+          "Matões",
+          "Lagoa dos Porcos",
+          "Genipabú",
+          "Córrego do Alexandre",
+          "Porteiras",
+          "Angico",
+          "Guararu",
+          "Cauípe 2",
+          "Pau Branco",
+          "Araticuba",
+          "Boqueirão da Arara",
+          "Boqueirãozinho",
+          "Camará",
+          "Jacurutu",
+          "Bom Tempo",
+          "Tabuleiro Grande",
+          "Santa Edwiges",
+          "São Bento",
+          "Industrial",
+          "Junco",
+          "Santa Rosa",
+          "Japuara",
+          "Catuana",
+          "São Pedro",
+          "Primavera",
+          "Mangabeira",
+          "Distrito de Caucaia (Sede) - Zona Rural Oeste",
+          "Distrito Guararu",
+          "Distrito Sítios Novos",
+          "Distrito Catuana"
+        ]
+      },
+      {
+        "ais": "AIS13",
+        "municipios_ou_bairros": [
+          "Aiuaba",
+          "Arneiroz",
+          "Catarina",
+          "Mombaça",
+          "Parambu",
+          "Piquet Carneiro",
+          "Quiterianópolis",
+          "Tauá"
+        ]
+      },
+      {
+        "ais": "AIS14",
+        "municipios_ou_bairros": [
+          "Maracanaú"
+        ]
+      },
+      {
+        "ais": "AIS15",
+        "municipios_ou_bairros": [
+          "Aquiraz",
+          "Cascavel",
+          "Eusébio",
+          "Pindoretama"
+        ]
+      },
+      {
+        "ais": "AIS16",
+        "municipios_ou_bairros": [
+          "Ancuri",
+          "Barroso",
+          "Coaçu",
+          "Conjunto Palmeiras",
+          "Curió",
+          "Guajeru",
+          "Jangurussu",
+          "Lagoa Redonda",
+          "Messejana",
+          "Parque Santa Maria (Fortaleza)",
+          "Paupina",
+          "Pedras",
+          "São Bento"
+        ]
+      },
+      {
+        "ais": "AIS17",
+        "municipios_ou_bairros": [
+          "Bom Jardim",
+          "Conjunto Ceará I",
+          "Conjunto Ceará II",
+          "Genibaú",
+          "Granja Lisboa",
+          "Granja Portugal",
+          "Siqueira"
+        ]
+      },
+      {
+        "ais": "AIS18",
+        "municipios_ou_bairros": [
+          "Amadeu Furtado",
+          "Antônio Bezerra",
+          "Autran Nunes",
+          "Bela Vista",
+          "Bonsucesso",
+          "Dom Lustosa",
+          "Henrique Jorge",
+          "João XXIII",
+          "Jóquei Clube",
+          "Olavo Oliveira",
+          "Padre Andrade",
+          "Parque Araxá",
+          "Parquelândia",
+          "Pici",
+          "Presidente Kennedy",
+          "Quintino Cunha",
+          "Rodolfo Teófilo"
+        ]
+      },
+      {
+        "ais": "AIS19",
+        "municipios_ou_bairros": [
+          "Aerolândia",
+          "Alto da Balança",
+          "Boa Vista / Castelão",
+          "Cajazeiras",
+          "Cambeba",
+          "Cidade dos Funcionários",
+          "Dias Macêdo",
+          "Edson Queiroz",
+          "Jardim das Oliveiras",
+          "José de Alencar",
+          "Parque Dois Irmãos",
+          "Parque Iracema",
+          "Parque Manibura",
+          "Passaré",
+          "Sabiaguaba",
+          "Sapiranga / Coité"
+        ]
+      },
+      {
+        "ais": "AIS20",
+        "municipios_ou_bairros": [
+          "Barra do Ceará",
+          "Cristo Redentor",
+          "Floresta",
+          "Jardim Guanabara",
+          "Jardim Iracema",
+          "Pirambu",
+          "Vila Velha"
+        ]
+      },
+      {
+        "ais": "AIS21",
+        "municipios_ou_bairros": [
+          "Aracapé",
+          "Canindezinho",
+          "Conjunto Esperança",
+          "Jardim Cearense",
+          "Manoel Sátiro",
+          "Maraponga",
+          "Mondubim",
+          "Novo Mondubim (Fortaleza)",
+          "Parque Presidente Vargas",
+          "Parque Santa Rosa",
+          "Parque São José",
+          "Planalto Ayrton Senna",
+          "Prefeito José Walter"
+        ]
+      },
+      {
+        "ais": "AIS22",
+        "municipios_ou_bairros": [
+          "Cidade 2000",
+          "Cocó",
+          "De Lourdes",
+          "Dionísio Torres",
+          "Engenheiro Luciano Cavalcante",
+          "Guararapes",
+          "Joaquim Távora",
+          "Manuel Dias Branco",
+          "Papicu",
+          "Praia do Futuro I",
+          "Praia do Futuro II",
+          "Salinas",
+          "Tauape"
+        ]
+      },
+      {
+        "ais": "AIS23",
+        "municipios_ou_bairros": [
+          "Paracuru",
+          "Paraipaba",
+          "São Luís do Curu",
+          "Trairi",
+          "São Gonçalo do Amarante"
+        ]
+      },
+      {
+        "ais": "AIS24",
+        "municipios_ou_bairros": [
+          "Guaiúba",
+          "Maranguape",
+          "Pacatuba"
+        ]
+      },
+      {
+        "ais": "AIS25",
+        "municipios_ou_bairros": [
+          "Chorozinho",
+          "Horizonte",
+          "Itaitinga",
+          "Pacajus"
+        ]
+      },
+      {
+        "ais": "AIS26",
+        "municipios_ou_bairros": [
+          "Conjunto Metropolitano",
+          "Guadalajara",
+          "Lago Verde",
+          "Parque Albano",
+          "Parque das Nações",
+          "Potira",
+          "São Miguel",
+          "Patrícia Gomes",
+          "Sobradinho",
+          "Tabapuá",
+          "Tabapuá Brasília",
+          "Tabapuá Brasília II",
+          "Marechal Rondon",
+          "Araturi",
+          "Nova Metrópole",
+          "Arianópoles",
+          "Campo Grande",
+          "Urucutuba",
+          "Toco",
+          "Riachão",
+          "Carrapicho",
+          "Distrito Tucunduba",
+          "Distrito de Caucaia (Sede) - Zona Rural Leste",
+          "Distrito Bom Princípio",
+          "Distrito Mirambé"
+        ]
+      },
+      {
+        "ais": "AIS27",
+        "municipios_ou_bairros": [
+          "Carnaubal",
+          "Croatá",
+          "Guaraciaba do Norte",
+          "Ibiapina",
+          "São Benedito",
+          "Tianguá",
+          "Ubajara",
+          "Viçosa do Ceará"
+        ]
+      },
+      {
+        "ais": "AIS28",
+        "municipios_ou_bairros": [
+          "Barroquinha",
+          "Camocim",
+          "Chaval",
+          "Granja",
+          "Martinópole",
+          "Moraújo",
+          "Uruoca"
+        ]
+      },
+      {
+        "ais": "AIS29",
+        "municipios_ou_bairros": [
+          "Acarape",
+          "Aracoiaba",
+          "Aratuba",
+          "Barreira",
+          "Baturité",
+          "Capistrano",
+          "Guaramiranga",
+          "Itapiúna",
+          "Mulungu",
+          "Ocara",
+          "Pacoti",
+          "Palmácia",
+          "Redenção"
+        ]
+      },
+      {
+        "ais": "AIS30",
+        "municipios_ou_bairros": [
+          "Aracati",
+          "Beberibe",
+          "Fortim",
+          "Icapuí",
+          "Itaiçaba",
+          "Palhano"
+        ]
+      },
+      {
+        "ais": "AIS31",
+        "municipios_ou_bairros": [
+          "Alto Santo",
+          "Ereré",
+          "Iracema",
+          "Jaguaribara",
+          "Jaguaribe",
+          "Pereiro",
+          "Potiretama"
+        ]
+      },
+      {
+        "ais": "AIS32",
+        "municipios_ou_bairros": [
+          "Abaiara",
+          "Barro",
+          "Brejo Santo",
+          "Jati",
+          "Mauriti",
+          "Milagres",
+          "Penaforte",
+          "Porteiras"
+        ]
+      },
+      {
+        "ais": "AIS33",
+        "municipios_ou_bairros": [
+          "Altaneira",
+          "Antonina do Norte",
+          "Araripe",
+          "Assaré",
+          "Campos Sales",
+          "Potengi",
+          "Salitre"
+        ]
+      },
+      {
+        "ais": "AIS34",
+        "municipios_ou_bairros": [
+          "Baixio",
+          "Cedro",
+          "Granjeiro",
+          "Icó",
+          "Ipaumirim",
+          "Lavras da Mangabeira",
+          "Orós",
+          "Umari",
+          "Várzea Alegre"
+        ]
+      }
+    ]
+  }
