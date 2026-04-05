@@ -379,6 +379,23 @@ function MapNavigator({
   return null;
 }
 
+function MapResizeHandler() {
+  const map = useMap();
+
+  useEffect(() => {
+    const handleResize = () => {
+      map.invalidateSize();
+    };
+
+    handleResize();
+    window.addEventListener('resize', handleResize);
+
+    return () => window.removeEventListener('resize', handleResize);
+  }, [map]);
+
+  return null;
+}
+
 export function MapView({
   areas,
   focusBounds,
@@ -507,6 +524,7 @@ export function MapView({
         bounds={mapBounds}
         center={FALLBACK_CENTER}
         className="leaflet-map"
+        tap
         zoom={FALLBACK_ZOOM}
         zoomControl={false}
       >
@@ -517,6 +535,7 @@ export function MapView({
           mapBounds={mapBounds}
           resetSequence={resetSequence}
         />
+        <MapResizeHandler />
         <MapZoomTracker onZoomChange={setMapZoom} />
 
         <TileLayer attribution={TILE_ATTRIBUTION} opacity={theme === 'light' ? 0.56 : 0.62} url={TILE_LAYERS[theme]} />

@@ -9,7 +9,8 @@
     "sync:sedes-pm": "node scripts/sync-pm-units.mjs",
     "sync:base-raio": "node scripts/sync-raio-bases.mjs",
     "dev:vite": "vite",
-    "dev": "pkill -f 'node scripts/dev-static.mjs|@esbuild/darwin-arm64/bin/esbuild' >/dev/null 2>&1 || true; node scripts/dev-static.mjs",
+    "dev:legacy": "pkill -f 'node scripts/dev-static.mjs|@esbuild/darwin-arm64/bin/esbuild' >/dev/null 2>&1 || true; node scripts/dev-static.mjs",
+    "dev": "bash scripts/dev-safe.sh",
     "build": "tsc --noEmit -p tsconfig.json && vite build",
     "preview": "vite preview"
   },

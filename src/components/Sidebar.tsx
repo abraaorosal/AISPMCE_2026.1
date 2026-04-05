@@ -28,6 +28,7 @@ interface SidebarProps {
   onRaioBaseQueryChange: (value: string) => void;
   onClearSelection: () => void;
   onOpenHelp: () => void;
+  onResetMap: () => void;
   onSearchQueryChange: (value: string) => void;
   onSelectAis: (aisId: string | null) => void;
   onSelectBattalion: (battalion: PMUnit) => void;
@@ -51,6 +52,7 @@ export function Sidebar({
   onRaioBaseQueryChange,
   onClearSelection,
   onOpenHelp,
+  onResetMap,
   onSearchQueryChange,
   onSelectAis,
   onSelectBattalion,
@@ -87,9 +89,7 @@ export function Sidebar({
   };
 
   return (
-    <aside className="sidebar sidebar-persistent">
-      <div className="sidebar-mobile-grip" aria-hidden="true" />
-
+    <aside className="sidebar">
       <section className="panel">
         <div className="panel__header">
           <h2>Como deseja filtrar?</h2>
@@ -208,6 +208,9 @@ export function Sidebar({
 
       <footer className="sidebar-footer">
         <div className="sidebar-footer__actions">
+          <button className="primary-button" type="button" onClick={onResetMap}>
+            Centralizar mapa
+          </button>
           <button className="ghost-button" type="button" onClick={onOpenHelp}>
             Ajuda
           </button>
